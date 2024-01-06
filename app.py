@@ -98,3 +98,6 @@ with st.container():
         st_lottie(lottie_contact, height=282, key="contact")
     with right_column:
         st.markdown(contact_form, unsafe_allow_html=True)
+
+st.write("---")
+st.write("The images are just placeholders. They are not real.")
